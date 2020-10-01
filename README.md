@@ -1,4 +1,4 @@
-# Dot_NetCore_Assignment_PoojaPadamwar  AN Amazing Project
+# Dot_NetCore_Assignment_PoojaPadamwar-An Amazing Project
 Blogging Website
 
 The application contains below technology and concepts :
