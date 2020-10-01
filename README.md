@@ -1,5 +1,5 @@
-# Dot_NetCore_Assignment_PoojaPadamwar
-BloggingWbsite
+# Dot_NetCore_Assignment_PoojaPadamwar  AN Amazing Project
+Blogging Website
 
 The application contains below technology and concepts :
 1. .Net Core
